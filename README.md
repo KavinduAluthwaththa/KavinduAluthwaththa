@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in Machine Learning. So,I'm learning **AWS**
+- ☁️ I have a keen interest in AI & ML.
 
 - 📫 Feel free to reach me out **kavindu18602@gmail.com**
 <!--Intro end-->
