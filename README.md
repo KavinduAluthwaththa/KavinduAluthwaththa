@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, Next.js, Larvel, .Net, Flutter, PostgreSQL**
+- 🔭 I’m currently working on **Python, Next.js, Larvel, .Net & Flutter**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
