@@ -20,7 +20,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, Next.js, Larvel, .Net & Flutter**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Python Automation**
 
 - ☁️ I have a keen interest in AI & ML.
 
